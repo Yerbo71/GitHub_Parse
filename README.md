@@ -15,7 +15,7 @@ Make sure you have Node.js and npm installed on your machine.
 1. Navigate to the project directory:
 
    ```bash
-   cd minin_project
+   cd .
 2. Install dependencies:
    ```bash
    npm install
